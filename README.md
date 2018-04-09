@@ -1,7 +1,7 @@
 # hw6
 
 ## Часть 1
-### №1
+### 
 ![](https://raw.githubusercontent.com/annapivovarova/hw6/master/due%20to%20the.png)
 
 ### №2
@@ -17,9 +17,14 @@
 
 ### №2
 ![](https://raw.githubusercontent.com/annapivovarova/hw6/master/say%20tell.png)
+
 Для этого задания я выбрала глаголы say и tell. 
 Оба эти глагола могут употребляться с дополнением nothing. (Например, She told us nothing about that accident. или He said nothing to me.)
 Только say может употребляться с дополнением goodbye. (Например, He said goodbye and left.)
 Только tell может употребляться с дополнением truth. (Например, I swear I am telling the truth.)
 
 ### №3 (бонусное)
+В разделе Trends я выбрала слово examination. 
+![](https://raw.githubusercontent.com/annapivovarova/hw6/master/examination.png)
+![](https://raw.githubusercontent.com/annapivovarova/hw6/master/examination2.png)
+Как мы можем наблюдать на диаграммах, и по данным Trends, и по данным Google Ngram Viewer, сейчас наблюдается уменьшение частотности этого слова. Однако пик, после которого началось уменьшение, приходится на разные года. В Ngram Viewer это приблизительно 1975 год, а в Trends - 1993. Тенденция к уменьшению частотности этого слова в целом может быть связана с тем, что в современном английском полная форма всё чаще заменяется краткой формой "exam". Что же касается различий в данных Trends и Ngram Viewer, возможно, они связаны с разными источниками, формирующими базу корпуса. Например, в BNC входит больше научных изданий, поэтому полная форма слова examination дольше остается там популярной. 
